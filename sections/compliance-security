@@ -1,0 +1,31 @@
+# 10. Compliance and Security Requirements
+
+## Regulatory Requirements
+
+| Regulation | Requirement | Impact |
+|---|---|---|
+| HIPAA | Protect PHI at rest and in transit | Encryption, access controls, audit logging |
+| SOC 2 | Trust Services Criteria for security | Access controls, monitoring, incident response |
+| ISO 27001 | Information security management | Policy, risk assessment, controls |
+| ISO 9001 | Quality management | Document control, version control |
+| QMS | Quality management system | SOPs, training records, CAPA |
+
+## Security Controls
+
+| Control | Requirement |
+|---|---|
+| Authentication | Multi-factor authentication for all users |
+| Authorization | Role-based access control (RBAC) |
+| Encryption | AES-256 at rest, TLS 1.2+ in transit |
+| Audit Logging | All access and changes logged |
+| Data Retention | PHI retained per HIPAA requirements |
+| Incident Response | Documented and tested |
+| Access Review | Quarterly reviews of user access |
+
+## Audit Readiness
+
+- All requirements traceable to source
+- Document control with version history
+- Objective evidence collected and stored
+- CAPA tracking for findings
+- Management review inputs prepared
